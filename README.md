@@ -60,6 +60,7 @@ Notre modèle final XGBoost atteint un **F1-Score de 0.8765** sur l'ensemble de 
 ### **3. Contenu du Repository**
 
 Voici la liste des fichiers et liens importants pour évaluer notre travail :
+* [**📹 VIDÉO DE PRÉSENTATION ( 4 min)**](https://drive.google.com/file/d/17Agzfh9etglgCyArcWsSVdVDZLtQ5_3L/view?usp=sharing) - Présentation complète de l'équipe, analyse EDA avec insights clés, méthodologie de modélisation, résultats finaux et recommandations business pour PoketraFinday
 
 #### **📂 Structure du Repository**
 ```
@@ -128,16 +129,6 @@ poketrafinday-fraud-detection/
   ```
 
 * **💾 models/** : Modèles entraînés sauvegardés au format .pkl pour reproductibilité et déploiement potentiel
-
-#### **🔗 Liens Utiles**
-
-* [**📹 VIDÉO DE PRÉSENTATION (4min 32s)**](https://youtu.be/VOTRE_LIEN_YOUTUBE_ICI) - Présentation complète de l'équipe, analyse EDA avec insights clés, méthodologie de modélisation, résultats finaux et recommandations business pour PoketraFinday
-
-* [**📊 Slides de Présentation**](https://drive.google.com/VOTRE_LIEN_SLIDES_ICI) *(Optionnel)* - Support visuel utilisé dans la vidéo
-
-* [**🐙 Repository GitHub**](https://github.com/VOTRE_USERNAME/poketrafinday-fraud-detection) - Code source complet, notebooks, et historique des commits
-
----
 
 ### **4. Réponses aux Questions d'Analyse**
 
