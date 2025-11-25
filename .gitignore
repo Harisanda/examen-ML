@@ -35,3 +35,4 @@ presentation_video.mp4
 .idea/
 *.sublime-project
 *.sublime-workspace
+.venv
