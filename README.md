@@ -49,6 +49,12 @@ This project aims to detect fraudulent transactions using machine learning techn
 To install the required dependencies, run:
 
 ```
+python -m venv .venv
+# mac/linux
+source .venv/bin/activate
+# windows (PowerShell)
+# .venv\Scripts\Activate.ps1
+
 pip install -r requirements.txt
 ```
 
